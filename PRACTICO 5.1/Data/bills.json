@@ -1,0 +1,28 @@
+[
+    {
+        "date": "2021-02-20",
+        "type": "B",
+        "number": "2",
+        "items": [
+            {
+                "name": "Cosme Fulanito",
+                "description": "coffi",
+                "quantity": "10",
+                "price": "11"
+            }
+        ]
+    },
+    {
+        "date": "2021-02-19",
+        "type": "A",
+        "number": "10",
+        "items": [
+            {
+                "name": "Cosme Fulanito",
+                "description": "coffi",
+                "quantity": "1",
+                "price": "9"
+            }
+        ]
+    }
+]

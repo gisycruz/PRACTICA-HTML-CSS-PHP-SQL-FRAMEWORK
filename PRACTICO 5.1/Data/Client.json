@@ -1,0 +1,11 @@
+[
+    {
+        "id": 0,
+        "firstname": "Cosme",
+        "lastName": "Fulanito",
+        "dni": 31958456,
+        "email": "cosme.fulanito@utn.com",
+        "userName": "Cosme Fulanito",
+        "password": "strongPassword!"
+    }
+]
